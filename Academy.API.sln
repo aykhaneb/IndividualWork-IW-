@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy.API", "Academy.API\Academy.API.csproj", "{7C07F784-9D43-4BC3-BB0B-D0F3FE965B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy.DAL", "Academy.DAL\Academy.DAL.csproj", "{B8FC84C4-DB15-4997-8018-6D7222303CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C07F784-9D43-4BC3-BB0B-D0F3FE965B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C07F784-9D43-4BC3-BB0B-D0F3FE965B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C07F784-9D43-4BC3-BB0B-D0F3FE965B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C07F784-9D43-4BC3-BB0B-D0F3FE965B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FC84C4-DB15-4997-8018-6D7222303CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FC84C4-DB15-4997-8018-6D7222303CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FC84C4-DB15-4997-8018-6D7222303CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FC84C4-DB15-4997-8018-6D7222303CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3AE54B7-5528-4DE3-BE0F-51AF434B832B}
+	EndGlobalSection
+EndGlobal
