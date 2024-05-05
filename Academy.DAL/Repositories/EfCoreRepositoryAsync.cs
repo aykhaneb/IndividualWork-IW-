@@ -46,6 +46,11 @@ namespace Academy.DAL.Repositories
         {
             throw new NotImplementedException();
         }
+
+        Task IRepositoryAsync<T>.GetAllAsync()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 

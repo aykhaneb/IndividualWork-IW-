@@ -870,6 +870,16 @@
           }
         }
       },
+      "Academy.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Academy.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.BLL.dll": {}
+        }
+      },
       "Academy.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2229,6 +2239,11 @@
         "version.txt"
       ]
     },
+    "Academy.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Academy.BLL/Academy.BLL.csproj",
+      "msbuildProject": "../Academy.BLL/Academy.BLL.csproj"
+    },
     "Academy.DAL/1.0.0": {
       "type": "project",
       "path": "../Academy.DAL/Academy.DAL.csproj",
@@ -2237,6 +2252,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Academy.BLL >= 1.0.0",
       "Academy.DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.29",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -2270,6 +2286,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\user\\source\\repos\\Academy.API\\Academy.BLL\\Academy.BLL.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\Academy.API\\Academy.BLL\\Academy.BLL.csproj"
+            },
             "C:\\Users\\user\\source\\repos\\Academy.API\\Academy.DAL\\Academy.DAL.csproj": {
               "projectPath": "C:\\Users\\user\\source\\repos\\Academy.API\\Academy.DAL\\Academy.DAL.csproj"
             }

@@ -4,6 +4,7 @@ using Academy.DAL;
 using Academy.DAL.Repositories.Contracts;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Academy.BLL.Dtos.Student;
 
 namespace Academy.API.Controllers
 {
@@ -22,9 +23,24 @@ namespace Academy.API.Controllers
         public async Task<IActionResult> GetAll()
 
         {
-            var result = await _studentRepository.GetAllAsync();
+             var result =  _studentRepository.GetAllAsync();
 
-            return Ok(result);
+            var studentDtos = new List<StudentDto>();
+
+            //foreach (var student in result)
+            //{
+            //    studentDtos.Add(new StudentDto
+            //    { Id = student.Id, Name = student.Name });
+            //}
+
+            return Ok(studentDtos);
+        }
+
+        [HttpPost]
+
+        public async Task Post(Student student)
+        {
+            await _studentRepository.AddAsync(student);
         }
     }
 }

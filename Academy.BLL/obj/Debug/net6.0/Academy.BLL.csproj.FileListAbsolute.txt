@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Academy.API\Academy.BLL\bin\Debug\net6.0\Academy.BLL.deps.json
+C:\Users\user\source\repos\Academy.API\Academy.BLL\bin\Debug\net6.0\Academy.BLL.dll
+C:\Users\user\source\repos\Academy.API\Academy.BLL\bin\Debug\net6.0\Academy.BLL.pdb
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.dll
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\refint\Academy.BLL.dll
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\Academy.BLL.pdb
+C:\Users\user\source\repos\Academy.API\Academy.BLL\obj\Debug\net6.0\ref\Academy.BLL.dll

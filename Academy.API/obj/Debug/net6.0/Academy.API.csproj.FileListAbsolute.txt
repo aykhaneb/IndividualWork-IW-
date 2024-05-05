@@ -67,3 +67,5 @@ C:\Users\user\source\repos\Academy.API\Academy.API\obj\Debug\net6.0\refint\Acade
 C:\Users\user\source\repos\Academy.API\Academy.API\obj\Debug\net6.0\Academy.API.pdb
 C:\Users\user\source\repos\Academy.API\Academy.API\obj\Debug\net6.0\Academy.API.genruntimeconfig.cache
 C:\Users\user\source\repos\Academy.API\Academy.API\obj\Debug\net6.0\ref\Academy.API.dll
+C:\Users\user\source\repos\Academy.API\Academy.API\bin\Debug\net6.0\Academy.BLL.dll
+C:\Users\user\source\repos\Academy.API\Academy.API\bin\Debug\net6.0\Academy.BLL.pdb
